@@ -1,4 +1,4 @@
-package com.lie9000.tictactoe;
+package com.liev9000.tictactoe;
 
 import org.junit.Test;
 
