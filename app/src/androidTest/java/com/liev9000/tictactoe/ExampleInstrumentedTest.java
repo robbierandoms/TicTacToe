@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.lie9000.tictactoe", appContext.getPackageName());
+        assertEquals("com.liev9000.tictactoe", appContext.getPackageName());
     }
 }
